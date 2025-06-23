@@ -1,9 +1,7 @@
-# titanic-data-cleaning
-# 🚢 Titanic Data Cleaning & Preprocessing – AI/ML Internship
+# Titanic-data-cleaning
+# 🚢 Titanic Data Cleaning & Preprocessing 
 
-This repository contains the complete data cleaning and preprocessing pipeline for the Titanic dataset, as part of my AI & Machine Learning Internship with **Elevate Labs**.
-
-The goal of this task is to prepare raw data for machine learning models by handling missing values, encoding categorical variables, scaling numerical features, and removing outliers.
+This project contains a complete data cleaning and preprocessing pipeline for the Titanic dataset. The goal is to prepare the raw data for machine learning models by handling missing values, encoding categorical variables, scaling numerical features, and removing outliersrs.
 
 ---
 
