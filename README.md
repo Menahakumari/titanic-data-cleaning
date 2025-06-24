@@ -17,7 +17,10 @@ This project contains a complete data cleaning and preprocessing pipeline for th
 ---
 
 ## 📁 Project Structure
-
+titanic-analysis/
+├── Titanic-Dataset.csv           # Raw dataset
+├── titanic_analysis.ipynb        # Jupyter notebook with analysis & visualizations
+└── README.md                     # Project documentation
 
 ---
 
